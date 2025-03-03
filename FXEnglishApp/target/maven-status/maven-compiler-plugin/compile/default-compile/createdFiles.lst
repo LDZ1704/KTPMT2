@@ -1,0 +1,9 @@
+com\ndl\fxenglishapp\SecondaryController.class
+com\ndl\pojo\Category.class
+com\ndl\services\QuestionServices.class
+com\ndl\fxenglishapp\App.class
+com\ndl\pojo\Choice.class
+com\ndl\pojo\JdbcUtils.class
+module-info.class
+com\ndl\fxenglishapp\PrimaryController.class
+com\ndl\pojo\Question.class
